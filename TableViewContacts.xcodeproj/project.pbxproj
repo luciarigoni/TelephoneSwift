@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F62D344298D956700C151C2 /* RecentesVCViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F62D343298D956700C151C2 /* RecentesVCViewController.swift */; };
 		0FF7E5A4298D863900FE987D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FF7E5A3298D863900FE987D /* AppDelegate.swift */; };
 		0FF7E5A6298D863900FE987D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FF7E5A5298D863900FE987D /* SceneDelegate.swift */; };
 		0FF7E5A8298D863900FE987D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FF7E5A7298D863900FE987D /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F62D343298D956700C151C2 /* RecentesVCViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecentesVCViewController.swift; sourceTree = "<group>"; };
 		0FF7E5A0298D863900FE987D /* TableViewContacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewContacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FF7E5A3298D863900FE987D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0FF7E5A5298D863900FE987D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				0FF7E5AC298D863B00FE987D /* Assets.xcassets */,
 				0FF7E5AE298D863B00FE987D /* LaunchScreen.storyboard */,
 				0FF7E5B1298D863B00FE987D /* Info.plist */,
+				0F62D343298D956700C151C2 /* RecentesVCViewController.swift */,
 			);
 			path = TableViewContacts;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				0FF7E5A8298D863900FE987D /* ViewController.swift in Sources */,
 				0FF7E5A4298D863900FE987D /* AppDelegate.swift in Sources */,
+				0F62D344298D956700C151C2 /* RecentesVCViewController.swift in Sources */,
 				0FF7E5A6298D863900FE987D /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
